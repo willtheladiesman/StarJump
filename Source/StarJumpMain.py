@@ -8,4 +8,7 @@ import random
 #This code is written in python and pygame
 #When publishing new bits of code please put the version and your name
 #the scrip editor that I use and I personally think is the best is called Sublime Script (v.3)
+# so yeah thats about it
+# read to code
+
 
