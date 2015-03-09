@@ -1,3 +1,7 @@
 import time
 import random
-import #will is the best person around
+
+#will is the best person around
+#this is the start of a new game
+#For now we have nothing but soon....
+#We will have the world!!!
